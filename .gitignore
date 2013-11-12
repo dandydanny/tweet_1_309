@@ -25,3 +25,7 @@ chromedriver.log
 bin/
 .env
 *.swp
+
+# .gitignore file
+# no twitter.yaml file (it contains keys)
+config/twitter.yaml
